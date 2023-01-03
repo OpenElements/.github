@@ -21,3 +21,4 @@ Open collaboration is a central concept of the work at Open Elements. To do so w
 
 At Open Elements we want to help people to get into Open Source. Therefore it is quite important for us to provide help to people that want to start working on OSS. We did [several](https://www.youtube.com/watch?v=74AiufFGVug) [sessions](https://www.youtube.com/watch?v=r0UPHHsgOHg) about Open Source at conferences and meetups in the past and helped projects like [AdoptOpenJDK](https://github.com/AdoptOpenJDK) or [Eclipse Adoptium](https://github.com/adoptium) to create issues for newcomers. In future we will provide good first issues for our projects and offer additional help to get into open source by promoting events like [hacktoberfest](https://hacktoberfest.com).
 
+![Community](duke-community.png)
