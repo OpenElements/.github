@@ -16,3 +16,8 @@ Open collaboration is a central concept of the work at Open Elements. To do so w
 - We are a offical supporter of the [OSPO Alliance](https://ospo.zone) since its start ([LINK](http://ospo.zone/membership/))
 - We are a member of the [Eclipse Adoptium](https://adoptium.net) working group ([LINK](https://adoptium.net/de/members/))
 - As a participant member we are part of the [JakartaEE](https://jakarta.ee) working group ([LINK](https://jakarta.ee/membership/members/))
+
+### Helping Newcomers
+
+At Open Elements we want to help people to get into Open Source. Therefore it is quite important for us to provide help to people that want to start working on OSS. We did [several](https://www.youtube.com/watch?v=74AiufFGVug) [sessions](https://www.youtube.com/watch?v=r0UPHHsgOHg) about Open Source at conferences and meetups in the past and helped projects like [AdoptOpenJDK](https://github.com/AdoptOpenJDK) or [Eclipse Adoptium](https://github.com/adoptium) to create issues for newcomers. In future we will provide good first issues for newcomers and even more help to get into open source by promoting events like [hacktoberfest](https://hacktoberfest.com).
+
