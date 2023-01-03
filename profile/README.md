@@ -9,7 +9,7 @@ A central goal of our work at GitHub is to be an inclusive community. To do so w
 ### Helping Open Source
 
 Open collaboration is a central concept of the work at Open Elements. To do so we contribute to OSS in several different ways:
-- We contributed to several open source projects like [Prometheus](https://github.com/prometheus/client_java), [JSF](https://github.com/jakartaee/faces), [Adoptium](https://github.com/adoptium/adoptium), [Apache Tuweni](https://github.com/apache/incubator-tuweni), [Hedera Hashgraph](https://github.com/hashgraph/hedera-services), [IcedTea-Web](https://github.com/AdoptOpenJDK/IcedTea-Web), and others
+- We contributed to several open source projects like [Prometheus](https://github.com/prometheus/client_java), [JSF](https://github.com/jakartaee/faces), [Eclipse Adoptium](https://github.com/adoptium/adoptium), [Apache Tuweni](https://github.com/apache/incubator-tuweni), [Hedera Hashgraph](https://github.com/hashgraph/hedera-services), [IcedTea-Web](https://github.com/AdoptOpenJDK/IcedTea-Web), and others
 - We helped to form the open [Java Bean Validation](https://beanvalidation.org) standard as part of the [JSR 380 export group](https://jcp.org/en/jsr/detail?id=380) and Jakarta Bean Validation contributor ([LINK](https://projects.eclipse.org/projects/ee4j.bean-validation))
 - We sponsor several Open Source projects and organizations at GitHub with financially support ([LINK](https://github.com/orgs/OpenElements/sponsoring))
 - We are part of the [Eclipse Foundation](https://www.eclipse.org) as a contributing member ([LINK](https://www.eclipse.org/membership/showMember.php?member_id=1600))
