@@ -2,9 +2,13 @@
 
 🙋‍♀️ This file contains information about the open source projects and GitHub activitities of Open Elements.
 
+<img width="858" alt="logo-github" src="https://user-images.githubusercontent.com/9443847/234527426-c41c5ca4-b8ed-4bac-a91b-9e7ad6e8069f.png">
+
 ### Code of Conduct
 
 A central goal of our work at GitHub is to be an inclusive community. To do so we defined the ["CONTRIBUTOR COVENANT CODE OF CONDUCT"](https://github.com/OpenElements/.github/blob/main/CODE_OF_CONDUCT.md) for all our projects as a global CoC. The CoC is released under the [CC BY 4.0 License](https://github.com/EthicalSource/contributor_covenant/blob/release/LICENSE.md). More information about the CoC can be found [on the offical homepage](https://www.contributor-covenant.org) that contains [translation of the text in several languages](https://www.contributor-covenant.org/translations/).
+
+<img width="846" alt="coc-github" src="https://user-images.githubusercontent.com/9443847/234527516-74f7cce5-0609-4c9d-a66b-af90de6a4e33.png">
 
 ### Helping Open Source
 
@@ -20,5 +24,3 @@ Open collaboration is a central concept of the work at Open Elements. To do so w
 ### Helping Newcomers
 
 At Open Elements we want to help people to get into Open Source. Therefore it is quite important for us to provide help to people that want to start working on OSS. We did [several](https://www.youtube.com/watch?v=74AiufFGVug) [sessions](https://www.youtube.com/watch?v=r0UPHHsgOHg) about Open Source at conferences and meetups in the past and helped projects like [AdoptOpenJDK](https://github.com/AdoptOpenJDK) or [Eclipse Adoptium](https://github.com/adoptium) to create issues for newcomers. In future we will provide good first issues for our projects and offer additional help to get into open source by promoting events like [hacktoberfest](https://hacktoberfest.com).
-
-![Community](https://github.com/OpenElements/.github/blob/main/profile/duke-community.png)
