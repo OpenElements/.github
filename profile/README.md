@@ -4,6 +4,10 @@
 
 <img width="858" alt="logo-github" src="https://user-images.githubusercontent.com/9443847/234527426-c41c5ca4-b8ed-4bac-a91b-9e7ad6e8069f.png">
 
+### About Open Elements
+
+Open Elements is an IT company whose main focus is on the two points of Open Source Software (OSS) and Java. By focusing on these two points, we can provide our customers with expert advice and support in the development and use of Open Source Software. By specializing in Java-based OSS, we are members of the leading committees and foundations on these topics and actively contribute to the further development of critical open source systems in the Java ecosystem.
+
 ### Code of Conduct
 
 A central goal of our work at GitHub is to be an inclusive community. To do so [Open Elements](https://open-elements.com) defined the ["CONTRIBUTOR COVENANT CODE OF CONDUCT"](https://github.com/OpenElements/.github/blob/main/CODE_OF_CONDUCT.md) for all our projects as a global CoC. The CoC is released under the [CC BY 4.0 License](https://github.com/EthicalSource/contributor_covenant/blob/release/LICENSE.md). More information about the CoC can be found [on the offical homepage](https://www.contributor-covenant.org) that contains [translation of the text in several languages](https://www.contributor-covenant.org/translations/).
