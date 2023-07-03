@@ -1,6 +1,6 @@
 ## Open Elements @ GitHub
 
-🙋‍♀️ This file contains information about the open source projects and GitHub activitities of [Open Elements](https://open-elements.com).
+This file contains information about the open source projects and GitHub activitities of [Open Elements](https://open-elements.com).
 
 <img width="858" alt="logo-github" src="https://user-images.githubusercontent.com/9443847/234527426-c41c5ca4-b8ed-4bac-a91b-9e7ad6e8069f.png">
 
