@@ -40,13 +40,13 @@ Please report unacceptable behavior to <info@open-elements.com>.
 
 ## I Have a Question
 
-Before you ask a question, it is best to search for existing [Issues](/issues) that might help you.
+Before you ask a question, it is best to search for existing Issues that might help you.
 In case you have found a suitable issue and still need clarification, you can write your question in this issue.
 It is also advisable to search the internet for answers first.
 
 If you then still feel the need to ask a question and need clarification, we recommend the following:
 
-- Open an [Issue](/issues/new).
+- Open an Issue.
 - Provide as much context as you can about what you're running into.
 
 We will then take care of the issue as soon as possible.
@@ -55,7 +55,7 @@ We will then take care of the issue as soon as possible.
 
 ### Reporting Bugs Or Suggesting Enhancements
 
-If you found a bug in our code or want to suggest a new feature or improvement please create a [new Issue](/issues/new).
+If you found a bug in our code or want to suggest a new feature or improvement please create a new Issue.
 
 ### Your First Code Contribution
 
