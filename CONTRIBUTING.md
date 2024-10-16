@@ -1,4 +1,4 @@
-## Contributing to Open Elements
+# Contributing to Open Elements
 
 First off, thanks for taking the time to contribute! ❤️
 
@@ -15,28 +15,12 @@ The community looks forward to your contributions. 🎉
 > - Refer this project in your project's readme
 > - Mention the project at local meetups and tell your friends/colleagues
 
-<!-- omit in toc -->
-## Table of Contents
-
-- [Code of Conduct](#code-of-conduct)
-- [I Have a Question](#i-have-a-question)
-- [I Want To Contribute](#i-want-to-contribute)
-- [Reporting Bugs](#reporting-bugs)
-- [Suggesting Enhancements](#suggesting-enhancements)
-- [Your First Code Contribution](#your-first-code-contribution)
-- [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
-- [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
-
-
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
 [Open Elements Code of Conduct](https://github.com/OpenElements/.github/blob/main/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
 Please report unacceptable behavior to <info@open-elements.com>.
-
 
 ## I Have a Question
 
@@ -51,13 +35,11 @@ If you then still feel the need to ask a question and need clarification, we rec
 
 We will then take care of the issue as soon as possible.
 
-## I Want To Contribute
-
-### Reporting Bugs Or Suggesting Enhancements
+## Reporting Bugs Or Suggesting Enhancements
 
 If you found a bug in our code or want to suggest a new feature or improvement please create a new Issue.
 
-### Your First Code Contribution
+## Your First Code Contribution
 
 We reserve issues for people who have never contributed to this project or any open source project in general.
 We know that creating a pull request (PR) is a major barrier for new contributors.
@@ -69,7 +51,6 @@ The most important point is that an issue exists for the contribution.
 If that is not the case please create an issue for a bug or enhancement.
 Please comment on the given issue that you want to work on it.
 Once a member of the team has assigned you to the issue you can start working on it.
-
 
 ## Attribution
 This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!
