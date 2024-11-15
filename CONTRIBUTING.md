@@ -25,14 +25,11 @@ Please report unacceptable behavior to <info@open-elements.com>.
 
 ## Developer Certificate of Origin (DCO)
 
-To ensure all contributions are properly licensed and documented, we use the [Developer Certificate of Origin (DCO)](https://developercertificate.org/). The DCO is a lightweight mechanism for contributors to certify that they have the right to submit code or documentation to the project.
+To ensure all contributions are properly licensed and documented, we use the [Developer Certificate of Origin (DCO)](https://developercertificate.org/).
+The DCO is a lightweight mechanism for contributors to certify that they have the right to submit code or documentation to the project.
 
-Currently, the DCO applies to two repositories:
-
-- [hedera-enterprise](https://github.com/OpenElements/hedera-enterprise)
-- [hedera-solo-action](https://github.com/OpenElements/hedera-solo-action)
-
-The [DCO GitHub App](https://github.com/apps/dco) is installed on these repositories to automatically check that each commit is signed off. Each commit message must contain a "Signed-off-by" line with the contributor's name and email address, achieved by using the `-s` flag when committing.
+The [DCO GitHub App](https://github.com/apps/dco) is installed on all repositories to automatically check that each commit is signed off. Each commit
+message must contain a "Signed-off-by" line with the contributor's name and email address, achieved by using the `-s` flag when committing.
 
 ### Sign-Off Example
 
@@ -83,10 +80,11 @@ Like most open-source projects, we use pull requests (PRs) to track code changes
 
         git add <file>
 
-8.  Enable [GPG Signing:](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) Enable GPG signing of your commits. Signing all your commits with your public key allows the community to verify it’s really you.
+8.  Enable [GPG Signing:](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) Enable GPG
+    signing of your commits. Signing all your commits with your public key allows the community to verify it’s really you.
     If you forgot to sign some commits, you can [rewrite your commit history](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History).
 
-            git config commit.gpgsign true
+                git config commit.gpgsign true
 
 9.  Sign Off on Commits: Use the `-s` flag to sign off on all commits. Also, GPG-sign your commits with your public key.
 
