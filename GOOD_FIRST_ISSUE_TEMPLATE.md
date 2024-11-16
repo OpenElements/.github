@@ -23,7 +23,7 @@ A more detailed general documentation of the GitHub PR workflow can be found [he
 - [ ] **Check out the forked repository**
 - [ ] **Create a feature branch** for the issue. We do not have a hard naming definition for branches but it is best practice to prefix the branch name with the issue id.
 - [ ] **Solve the issue** in your branch.
-- [ ] **Commit your changes:** to your branch. Here it is important to sign-off you commits to fullfill the [Developer Certificate of Origin (DCO)](https://developercertificate.org). More information can be found [here](https://wiki.linuxfoundation.org/dco).
+- [ ] **Commit your changes:** to your branch. Here it is important to sign-off you commits to fullfill the [Developer Certificate of Origin (DCO)](https://developercertificate.org). More information can be found [in our contribution guideline]([https://wiki.linuxfoundation.org/dco](https://github.com/OpenElements/.github/blob/main/CONTRIBUTING.md#developer-certificate-of-origin-dco)).
 - [ ] **Start a Pull Request (PR)**: in the hedera-enterprise repository
 - [ ] **Check GitHub Actions:** Several GitHub Actions will be triggered automatically for each PR. If a GitHub Action fails and you do not understand the cause of that error do not hesitate to add a comment to the PR and ask the community for support.
 - [ ] **Wait for reviews:** Members of the community will review your PR. If a reviewer finds any missing pieces or a problem, he or she will start a discussion with you and describe the next steps for solving the problem.
